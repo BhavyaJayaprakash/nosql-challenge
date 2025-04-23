@@ -61,4 +61,5 @@ The analysis provided insights into the hygiene scores and ratings of establishm
 
 Notebooks
 NoSQL_setup.ipynb: Contains the setup and database update steps.
+
 NoSQL_analysis_starter: Contains the exploratory analysis steps and results.
