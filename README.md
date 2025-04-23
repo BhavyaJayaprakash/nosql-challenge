@@ -20,6 +20,8 @@ Imported the data from establishments.json into MongoDB using the following comm
 
 mongoimport --db uk_food --collection establishments --drop --file establishments.json
 
+![Screenshot 2025-04-22 220109](https://github.com/user-attachments/assets/d75f5931-00a8-489e-a6a3-8b942fb55e38)
+
 Imported necessary libraries (pymongo and pprint).
 
 Created an instance of the MongoDB client and connected to the uk_food database.
