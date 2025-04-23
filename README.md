@@ -57,6 +57,8 @@ Result: Aggregated the data and found the top 10 Local Authority areas with the 
 
 The analysis provided insights into the hygiene scores and ratings of establishments in various regions, highlighting areas of interest for future articles in the magazine.
 
+![Screenshot 2025-04-22 222152](https://github.com/user-attachments/assets/f2025aa0-bbe9-48f1-b71a-7877b9466045)
+
 Notebooks
 NoSQL_setup.ipynb: Contains the setup and database update steps.
 NoSQL_analysis_starter: Contains the exploratory analysis steps and results.
